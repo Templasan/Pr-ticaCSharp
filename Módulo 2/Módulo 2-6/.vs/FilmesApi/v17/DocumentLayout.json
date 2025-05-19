@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|FilmesApi\\FilmesApi.csproj|d:\\c\u00F3digos\\m\u00F3dulo 2\\m\u00F3dulo 2-6\\filmesapi\\migrations\\20250519025710_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\migrations\\20250519025710_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|FilmesApi\\FilmesApi.csproj|d:\\c\u00F3digos\\m\u00F3dulo 2\\m\u00F3dulo 2-6\\filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|FilmesApi\\FilmesApi.csproj|d:\\c\u00F3digos\\m\u00F3dulo 2\\m\u00F3dulo 2-6\\filmesapi\\migrations\\20250519024728_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\migrations\\20250519024728_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|FilmesApi\\FilmesApi.csproj|d:\\c\u00F3digos\\m\u00F3dulo 2\\m\u00F3dulo 2-6\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250519025710_InitialCreate.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\FilmesApi\\Migrations\\20250519025710_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\20250519025710_InitialCreate.cs",
+              "ToolTip": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\FilmesApi\\Migrations\\20250519025710_InitialCreate.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\20250519025710_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:57:10.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\FilmesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FilmesApi\\appsettings.json",
+              "ToolTip": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\FilmesApi\\appsettings.json",
+              "RelativeToolTip": "FilmesApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T02:54:49.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250519024728_Inicial.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\FilmesApi\\Migrations\\20250519024728_Inicial.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\20250519024728_Inicial.cs",
+              "ToolTip": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\FilmesApi\\Migrations\\20250519024728_Inicial.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\20250519024728_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:47:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Controllers\\FilmeController.cs",
+              "ToolTip": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-6\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "FilmesApi\\Controllers\\FilmeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:38:38.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

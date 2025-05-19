@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-2\\2-5\\Screen Sound\\Progams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D769C8F-9E22-44B3-BCFD-97E3B1D2C4D1}|Progams\\Progams.csproj|d:\\c\u00F3digos\\m\u00F3dulo 2\\m\u00F3dulo 2-2\\2-5\\screen sound\\progams\\progams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D769C8F-9E22-44B3-BCFD-97E3B1D2C4D1}|Progams\\Progams.csproj|solutionrelative:progams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-2\\2-5\\Screen Sound\\Progams\\Progams\\Program.cs",
+              "RelativeDocumentMoniker": "Progams\\Program.cs",
+              "ToolTip": "D:\\C\u00F3digos\\M\u00F3dulo 2\\M\u00F3dulo 2-2\\2-5\\Screen Sound\\Progams\\Progams\\Program.cs",
+              "RelativeToolTip": "Progams\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAADwv4kAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:56:54.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
